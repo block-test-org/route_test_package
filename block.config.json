@@ -1,0 +1,8 @@
+{
+  "name": "route_test_package",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/block-test-org/route_test_package",
+    "ssh": "git@github.com:block-test-org/route_test_package.git"
+  }
+}
